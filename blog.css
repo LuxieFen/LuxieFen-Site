@@ -1,0 +1,81 @@
+  
+	  h1
+	  {
+		
+	  	color:white;
+      text-align: center;
+		
+  	}
+
+    h2
+    {
+        
+        font-size: 40px;
+        text-align: center;
+        width:100%;
+        height:25px;
+        margin-top:px0;
+        color:white;
+    }
+    
+     body 
+     {
+        
+      background-image: url("Resources/bg.png");
+      color:white;
+      text-align: center;
+
+     }
+
+    .buttons {
+         border: 0px solid;
+    }
+
+    .button {
+       
+        background-color:#8400ff00; font-family: 'Open Sans';font-size: 20px;
+        border: none;
+        color:white;
+        padding: 5px 5px;
+      
+    }
+
+    .footer {
+
+        /* CSS makes me want to die. why do i have to do it like this, why.*/
+        background-image: url("Resources/black.png"); 
+        background-color:#00000000;
+        position: fixed; font-family: 'Open Sans';
+        left: 0;
+        bottom: 0;
+        width: 100%;
+        color: white;
+        text-align: center;
+        background-color:#00000000;
+      }
+
+             
+      hr {
+        height: 1px;
+        background-color: rgb(143, 0, 238);
+        border: none;
+      }
+
+      .maincontent {      
+      
+      }
+
+      .posts {
+
+
+        
+      }
+
+      .footerlinks {
+
+        float: center;
+        padding: 5px 5px;
+
+      }
+
+     

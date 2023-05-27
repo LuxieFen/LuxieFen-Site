@@ -1,0 +1,36 @@
+
+    h2
+    {
+        font-family: 'Open Sans';
+        font-size: 60px;
+        text-align: center;
+        width:100%;
+        height:25px;
+        margin-top:px0;
+        color:white;
+    }
+    img {
+
+      image-rendering: pixelated;
+    }
+      
+  
+    .biglogo
+    {
+       
+      position: fixed; font-family: 'Open Sans';
+      left: 0;
+      bottom: 0;
+      width: 100%;
+      color: white;
+      text-align: center;
+
+    }
+     body 
+     {
+
+        background-color: #000000;
+     }
+
+
+ 

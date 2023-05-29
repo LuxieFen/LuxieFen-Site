@@ -21,7 +21,7 @@
     body 
     {
         
-      background-image: url("Resources/bg.png");
+      background-image: url("../Resources/bg.png");
       color:white;
       text-align: center;
 
@@ -43,7 +43,7 @@
     .footer {
 
         /* CSS makes me want to die. why do i have to do it like this, why.*/
-        background-image: url("Resources/black.png"); 
+        background-image: url("../Resources/black.png"); 
         background-color:#00000000;
         position: fixed; font-family: 'Open Sans';
         left: 0;

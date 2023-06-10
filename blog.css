@@ -36,18 +36,21 @@
       
     }
 
-    .footer {
-
+   .footer {
+        position:absolute;
+        bottom:0;
         /* CSS makes me want to die. why do i have to do it like this, why.*/
         background-image: url("Resources/black.png"); 
         background-color:#00000000;
-        position: fixed; font-family: 'Open Sans';
+        font-family: 'Open Sans';
         left: 0;
         bottom: 0;
         width: 100%;
         color: white;
         text-align: center;
         background-color:#00000000;
+        position:absolute;
+        bottom:0;
       }
 
              
